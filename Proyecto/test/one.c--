@@ -1,0 +1,16 @@
+int abc[3][5][6] , otra[1] ;
+
+func float plus2 ( int arg ) {
+	return 3 + 3 ;
+}
+
+func void main ( int arg ) {
+	int a ;
+	
+	if ( 2 < 3 )
+		print abc[2][3][4];
+
+	print 2 + 2 ;
+}
+
+
